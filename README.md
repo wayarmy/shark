@@ -5,13 +5,13 @@
 	
 * Pre-pair: 
 	- rsync installed on both two server
-		With Centos:  "yum -y install rsync"
-		With Ubuntu: "apt-get install rsync"
+		- With Centos:  "yum -y install rsync"
+		- With Ubuntu: "apt-get install rsync"
 	- Create or import your private key on new server
-		ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+		- ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 	- Copy your public key to old server
-		ssh-copy-id user@123.45.56.78
-	After that: run it from "New Server"
+		- ssh-copy-id user@123.45.56.78
+	- After that: run it from "New Server"
 
 
 * Command: 
