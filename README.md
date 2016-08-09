@@ -18,7 +18,7 @@
 	sh move_data.sh
 
 
-* This will maybe get some problem. Please fix this by yourself, or contact: quanpc@topica.edu.vn (+84) 936 555 695
+* This will maybe get some problem. Please fix this by yourself, or contact: wayarmy.89@gmail.com
  Author: @wayarmy
 
 
